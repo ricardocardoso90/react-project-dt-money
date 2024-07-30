@@ -1,14 +1,22 @@
-# Projeto DT Money.
+## Projeto: DT Money
 
-Projeto desenvolvido durante o curso Ignite Lab da Rocketseat.
+**Tecnologias utilizadas:**
 
-Tecnologias utilizadas: React + TypeScript.
+- [Expo]()
+- [Typescript]()
+- [React Native]()
+- [Axios]()
+- [Zod]()
+- [Phosphor React]()
+- [React Navigation]()
+- [Styled Components]()
+- [React Hook Form]()
 
-# Instalação:
+## Instalação:
 
 - `npm create vite@latest`
 - `npm i ou npm install`
 
-### Para rodar:
+## Para rodar:
 
 - `npm run dev`
