@@ -2,9 +2,7 @@
 
 **Tecnologias utilizadas:**
 
-- [Expo]()
 - [Typescript]()
-- [React Native]()
 - [Axios]()
 - [Zod]()
 - [Phosphor React]()
