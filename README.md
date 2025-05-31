@@ -18,3 +18,7 @@
 ## Para rodar:
 
 - `npm run dev`
+
+## Para rodar o servidor:
+
+- `npx json-server server.json -p 3333 -w`
